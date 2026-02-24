@@ -1,6 +1,14 @@
 *{
   font-family: Arial, Helvetica, sans-serif;
 }
-div.headings{
-  line-height: 0.5;
+div.text{
+  max-width: 30%;
+}
+div.body{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+img{
+  max-height: 32vh;
 }
