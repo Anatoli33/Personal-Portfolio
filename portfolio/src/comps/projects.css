@@ -1,0 +1,7 @@
+div.projects{
+    padding: 20px;
+}
+p.text{
+    max-width: 30%;
+    text-align: justify;
+}

@@ -1,5 +1,6 @@
 div.text{
   max-width: 30%;
+  text-align: justify;
 }
 div.body{
   display: flex;
