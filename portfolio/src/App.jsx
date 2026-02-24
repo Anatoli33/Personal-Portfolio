@@ -1,20 +1,11 @@
 import './App.css'
 import Home from './comps/Home.jsx'
+import Navigation from './comps/Navigation';
 
 function App() {
   return (
     <>
-    <header>
-      <h1>My Portfolio</h1>
-      <nav>
-        <ul>
-          <li>Home</li>
-          <li>About me</li>
-          <li>Projects</li>
-          <li>Contact me</li>
-        </ul>
-      </nav>
-      </header>
+      <Navigation/>
       <Home/>
     </>
   )
