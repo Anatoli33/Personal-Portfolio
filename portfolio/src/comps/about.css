@@ -1,0 +1,12 @@
+div.text{
+  max-width: 30%;
+  text-align: justify;
+}
+div.body{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+img{
+  max-height: 32vh;
+}
