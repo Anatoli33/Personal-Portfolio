@@ -4,6 +4,7 @@ import Navigation from './comps/Navigation';
 import Projects from './comps/Projects.jsx';
 import About from './comps/About';
 import Home from './comps/Home.jsx';
+import Footer from './comps/Footer.jsx';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About/>
       <Projects/>
       <Contact/>
+      <Footer/>
     </>
   )
 }
