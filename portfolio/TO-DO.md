@@ -3,6 +3,11 @@
 - [x] Image folder
 - [x] Make Contact Me section
 - [x] Make About Me section
+- [x] Create Home / Hero section
+- [ ] Create Footer
 - [ ] Add images to Projects section
-- [ ] Create Home / Hero section
-- [ ] Style everything (clean, modern, responsive)
+- [ ] Style header/navigation
+- [ ] Style home/hero section
+- [ ] Style About section
+- [ ] Style Projects section
+- [ ] Style Contact section
