@@ -1,5 +1,6 @@
 # Portfolio Improvements
 
+- [x] Image folder
 - [ ] Add images to Projects section
 - [ ] Make About Me section
 - [ ] Make Contact Me section
