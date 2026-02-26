@@ -1,6 +1,7 @@
 div.projects{
     padding: 20px;
     height: 75vh;
+    background-color: #84e29d;
 }
 p.text{
     max-width: 30%;

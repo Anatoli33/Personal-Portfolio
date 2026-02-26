@@ -7,6 +7,7 @@ div.body{
   justify-content: space-between;
   padding: 20px;
   height: 75vh;
+  background-color: #84e29d;
 }
 img{
   max-height: 32vh;

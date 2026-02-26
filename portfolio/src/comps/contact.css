@@ -1,6 +1,7 @@
 section#contact{
     height: 75vh;
-        padding: 20px;
+    padding: 20px;
+    background-color: #84e29d;
 }
 fieldset{
     display: flex;
