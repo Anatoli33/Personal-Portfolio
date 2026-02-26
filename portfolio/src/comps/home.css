@@ -1,6 +1,7 @@
 section#home{
   padding: 20px;
   text-align: center;
+  height: 70vh;
 }
 .btn {
   display: inline-block;

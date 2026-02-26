@@ -1,3 +1,6 @@
+section#contact{
+    height: 72vh;
+}
 fieldset{
     display: flex;
     flex-direction: column;

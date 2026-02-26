@@ -6,6 +6,7 @@ div.body{
   display: flex;
   justify-content: space-between;
   padding: 20px;
+  height: 70vh;
 }
 img{
   max-height: 32vh;
