@@ -6,6 +6,8 @@
 - [x] Create Home / Hero section
 - [x] Create Footer
 - [x] Setup React Router
+- [x] Update the Navigation
+- [x] Update Home
 - [ ] Add images to Projects section
 - [ ] Style header/navigation
 - [ ] Style home/hero section
