@@ -5,7 +5,7 @@
 - [x] Make About Me section
 - [x] Create Home / Hero section
 - [x] Create Footer
-- [ ] Setup React Router
+- [x] Setup React Router
 - [ ] Add images to Projects section
 - [ ] Style header/navigation
 - [ ] Style home/hero section
