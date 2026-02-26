@@ -1,5 +1,6 @@
 section#contact{
-    height: 72vh;
+    height: 75vh;
+        padding: 20px;
 }
 fieldset{
     display: flex;

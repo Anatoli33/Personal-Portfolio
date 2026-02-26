@@ -1,8 +1,9 @@
 section#home{
   padding: 20px;
   text-align: center;
-  height: 75vh;
+  height: 58vh;
   background-color: #84e29d;
+  padding-top: 20vh;
 }
 .btn {
   display: inline-block;
