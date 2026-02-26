@@ -7,3 +7,10 @@ nav ul{
   display: flex;
   gap: 10px;
 }
+
+.active{
+  color: rgb(145, 206, 206);
+}
+nav a{
+  color: black;
+}
