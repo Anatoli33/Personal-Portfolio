@@ -1,6 +1,13 @@
+*{
+  margin: 0;
+}
 header{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  background-color: #4caa69;
+  color: white;
+  padding: 20px;
 }
 nav ul{
   list-style: none;
@@ -12,5 +19,5 @@ nav ul{
   color: rgb(145, 206, 206);
 }
 nav a{
-  color: black;
+  color: white;
 }

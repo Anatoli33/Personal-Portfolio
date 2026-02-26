@@ -2,6 +2,7 @@ section#home{
   padding: 20px;
   text-align: center;
   height: 70vh;
+  background-color: #84e29d;
 }
 .btn {
   display: inline-block;
