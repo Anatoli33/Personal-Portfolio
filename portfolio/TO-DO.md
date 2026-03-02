@@ -8,9 +8,9 @@
 - [x] Setup React Router
 - [x] Update the Navigation
 - [x] Update Home
+- [x] Style About section
 - [ ] Add images to Projects section
 - [ ] Style header/navigation
 - [ ] Style home/hero section
-- [ ] Style About section
 - [ ] Style Projects section
 - [ ] Style Contact section

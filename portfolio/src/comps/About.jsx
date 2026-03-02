@@ -2,20 +2,29 @@ import "./about.css";
 import profilePic from "../img/prof-pic.png";
 
 export default function About() {
-    return(
-      <div className='body'>
-      <div className='text'>
-      <h1>Anatoli Hadzhiev</h1>
-      <h2>Junior Front-End Developer</h2>
-      <p>
-        Junior Front-End Developer with a strong foundation in modern JavaScript (ES6+), React, and Next.js. 
-        Experienced in building responsive, performance-optimized web applications and integrating REST APIs. 
-        Skilled in Git workflows, debugging with Chrome DevTools, and transforming Figma designs into clean, 
-        user-friendly interfaces. Passionate about writing maintainable code and contributing to team-driven, 
-        real-world projects.
-      </p>
+  return (
+    <section className="about">
+      <div className="about-text">
+        <h1>Anatoli Hadzhiev</h1>
+        <h2>Junior Front-End Developer</h2>
+
+        <p>
+          Front-End Developer focused on building fast, responsive, and user-friendly web applications using
+          React and Next.js. Strong understanding of modern JavaScript (ES6+), REST APIs, and performance optimization.
+          Passionate about clean code and delivering real-world solutions.
+        </p>
+
+        <ul className="about-highlights">
+          <li>⚡ React & Next.js Applications</li>
+          <li>📱 Responsive & Mobile-First Design</li>
+          <li>🔗 REST API Integration</li>
+          <li>🛠 Git & Version Control</li>
+        </ul>
       </div>
-      <img src={profilePic} alt="Anatoli Hadzhiev profile picture" />
+
+      <div className="about-image">
+        <img src={profilePic} alt="Anatoli Hadzhiev profile picture" />
       </div>
-    );
+    </section>
+  );
 }
