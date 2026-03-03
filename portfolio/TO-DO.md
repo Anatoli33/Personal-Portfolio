@@ -10,7 +10,8 @@
 - [x] Update Home
 - [x] Style About section
 - [x] Style home/hero section
+- [x] Style Contact section
+- [x] Style header/navigation
 - [ ] Add images to Projects section
-- [ ] Style header/navigation
+- [ ] Add all the Projects to Projects section
 - [ ] Style Projects section
-- [ ] Style Contact section
