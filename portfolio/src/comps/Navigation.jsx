@@ -9,7 +9,7 @@ export default function Navigation() {
       <nav>
         <ul>
           <li>
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/" end>Home</NavLink>
           </li>
 
           <li>
