@@ -17,5 +17,4 @@
 - [x] Export the project const
 - [x] Add github link to every project
 - [ ] Add images to Projects section
-- [ ] Add all the Projects to Projects section
 - [ ] Add Projects details page
