@@ -9,7 +9,7 @@ export const projects = [
     tech: ["React", "Firebase", "Context API"],
     image: "#",
     live: "#",
-    github: "#",
+    github: "https://github.com/Anatoli33/Sport-Talk",
   },
   {
     title: "Movie Magic",
@@ -19,7 +19,7 @@ export const projects = [
     tech: ["Node.js", "Express", "Handlebars"],
     image: "#",
     live: "#",
-    github: "#",
+    github: "https://github.com/Anatoli33/Movie-Magic",
   },
   {
     title: "Main Quest",
@@ -29,7 +29,7 @@ export const projects = [
     tech: ["JavaScript", "lit-html", "page.js"],
     image: "#",
     live: "#",
-    github: "#",
+    github: "https://github.com/Anatoli33/Main-Quest",
   },
   {
     title: "Mini Tech Shop",
@@ -39,6 +39,6 @@ export const projects = [
     tech: ["React", "Context API", "React Router", "Swiper.js"],
     image: "#",
     live: "#",
-    github: "#",
+    github: "https://github.com/Anatoli33/Mini-Tech-Shop",
   },
 ];

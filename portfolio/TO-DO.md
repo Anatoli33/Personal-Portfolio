@@ -15,7 +15,7 @@
 - [x] Style Projects section
 - [x] Make data folder
 - [x] Export the project const
-- [ ] Add github link to every project
+- [x] Add github link to every project
 - [ ] Add images to Projects section
 - [ ] Add all the Projects to Projects section
 - [ ] Add Projects details page
