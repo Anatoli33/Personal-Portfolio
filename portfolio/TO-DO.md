@@ -13,7 +13,8 @@
 - [x] Style Contact section
 - [x] Style header/navigation
 - [x] Style Projects section
-- [ ] Export the project const
+- [x] Make data folder
+- [x] Export the project const
 - [ ] Add github link to every project
 - [ ] Add images to Projects section
 - [ ] Add all the Projects to Projects section
