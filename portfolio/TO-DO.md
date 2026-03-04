@@ -18,3 +18,4 @@
 - [x] Add github link to every project
 - [ ] Add images to Projects section
 - [ ] Add Projects details page
+- [ ] Add Fav icon
