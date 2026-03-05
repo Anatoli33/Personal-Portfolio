@@ -6,7 +6,7 @@ export default function About() {
     <section className="about">
       <div className="about-text">
         <h1>Anatoli Hadzhiev</h1>
-        <h2>Junior Front-End Developer</h2>
+        <h2>Front-End Developer</h2>
 
         <p>
           Front-End Developer focused on building fast, responsive, and user-friendly web applications using
