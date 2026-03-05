@@ -16,6 +16,6 @@
 - [x] Make data folder
 - [x] Export the project const
 - [x] Add github link to every project
-- [ ] Add images to Projects section
+- [x] Add images to Projects section
 - [ ] Add Projects details page
 - [ ] Add Fav icon
