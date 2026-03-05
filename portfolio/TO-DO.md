@@ -17,5 +17,5 @@
 - [x] Export the project const
 - [x] Add github link to every project
 - [x] Add images to Projects section
+- [x] Add Fav icon
 - [ ] Add Projects details page
-- [ ] Add Fav icon
