@@ -19,3 +19,5 @@
 - [x] Add images to Projects section
 - [x] Add Fav icon
 - [ ] Add Projects details page
+- [ ] Add more content in about me page
+- [ ] Pick the best favicon
