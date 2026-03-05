@@ -1,4 +1,8 @@
+import sportTalkImg from "../img/Sport-Talk.png";
 
+import mainQuestImg from "../img/Main-Quest.png";
+import movieMagicImg from "../img/Movie-Magic.png";
+import miniTechShopImg from "../img/Mini-Tech-Shop.png";
 
 export const projects = [
   {
@@ -7,7 +11,7 @@ export const projects = [
     description:
       "React web application with Firebase for authentication and real-time data. Users can create and interact with posts, comments and polls.",
     tech: ["React", "Firebase", "Context API"],
-    image: "#",
+    image: sportTalkImg,
     live: "#",
     github: "https://github.com/Anatoli33/Sport-Talk",
   },
@@ -17,7 +21,7 @@ export const projects = [
     description:
       "Movie catalog built with Node.js, Express and Handlebars. Features authentication, searchable listings and detailed movie pages.",
     tech: ["Node.js", "Express", "Handlebars"],
-    image: "#",
+    image: movieMagicImg,
     live: "#",
     github: "https://github.com/Anatoli33/Movie-Magic",
   },
@@ -27,7 +31,7 @@ export const projects = [
     description:
       "SPA built with JS, lit-html and page.js to help students prepare for exams through interactive quizzes.",
     tech: ["JavaScript", "lit-html", "page.js"],
-    image: "#",
+    image: mainQuestImg,
     live: "#",
     github: "https://github.com/Anatoli33/Main-Quest",
   },
@@ -37,7 +41,7 @@ export const projects = [
     description:
       "Modern React e-commerce demo with slider, cart logic and dynamic routing. Focused on reusable components and real-world patterns.",
     tech: ["React", "Context API", "React Router", "Swiper.js"],
-    image: "#",
+    image: miniTechShopImg,
     live: "#",
     github: "https://github.com/Anatoli33/Mini-Tech-Shop",
   },
