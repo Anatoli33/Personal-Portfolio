@@ -66,3 +66,35 @@ nav a.active {
 nav a.active::after {
   width: 100%;
 }
+/* TABLET */
+@media (max-width: 900px) {
+  header {
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  header {
+    padding: 15px;
+  }
+
+  header h1 {
+    font-size: 20px;
+  }
+
+  nav ul {
+    gap: 12px;
+  }
+
+  nav a {
+    font-size: 16px;
+  }
+}

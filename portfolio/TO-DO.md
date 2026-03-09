@@ -18,6 +18,7 @@
 - [x] Add github link to every project
 - [x] Add images to Projects section
 - [x] Add Fav icon
+- [x] Responsive nav
 - [ ] Add Projects details page
 - [ ] Add more content in about me page
 - [ ] Pick the best favicon
