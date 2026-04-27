@@ -1,5 +1,5 @@
 import sportTalkImg from "../img/Sport-Talk.png";
-
+import streetGarageImg from "../img/Street-Garage.png";
 import mainQuestImg from "../img/Main-Quest.png";
 import movieMagicImg from "../img/Movie-Magic.png";
 import miniTechShopImg from "../img/Mini-Tech-Shop.png";
@@ -44,5 +44,14 @@ export const projects = [
     image: miniTechShopImg,
     live: "#",
     github: "https://github.com/Anatoli33/Mini-Tech-Shop",
+  },
+    {
+    title: "Street Garage",
+    type: "Course Project",
+    description: "A modern Angular web application where car enthusiasts can share vehicles, ask questions, and interact with a growing community.",
+    tech: ["Angular", "Angular services", "RxJS operators"],
+    image: streetGarageImg,
+    live: "#",
+    github: "https://github.com/Anatoli33/Street-Garage",
   },
 ];

@@ -21,5 +21,6 @@
 - [x] Responsive nav
 - [x] Pick the best favicon
 - [x] Add Socials on about page
-- [ ] Add the new project
+- [x] Add the new project
+- [ ] Better img for the new project
 - [ ] Add Projects details page
