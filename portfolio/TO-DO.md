@@ -22,5 +22,6 @@
 - [x] Pick the best favicon
 - [x] Add Socials on about page
 - [x] Add the new project
-- [ ] Better img for the new project
+- [x] Better img for the new project
 - [ ] Add Projects details page
+- [ ] Add Reviews page?
